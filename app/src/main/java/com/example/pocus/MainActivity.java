@@ -12,3 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+//seojiwon_2021_03_21_12:32
