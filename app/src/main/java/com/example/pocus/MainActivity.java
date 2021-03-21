@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+<<<<<<< HEAD
 //seojiwon_2021_03_21_12:32
 //seojiwon_2021_03_21_12:43
+=======
+//seojiwon_2021_03_21_12:32
+>>>>>>> develope
